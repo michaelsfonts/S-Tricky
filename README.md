@@ -27,21 +27,9 @@ Family name **S Tricky**, style **Regular**.
 
 ## License
 
-S Tricky is released under the **SIL Open Font License, Version 1.1**. See
-[`OFL.txt`](./OFL.txt). It carries two copyright lines:
-
-```
-Copyright (c) 2026, Michael Seh (https://michaelsfonts.com), with Reserved Font Name "S Tricky".
-Copyright (c) 2013, 2014, 2015 by (URW)++ Design & Development.
-```
-
-URW Gothic Book is offered by URW++ under the OFL 1.1 (among other licenses),
-with no Reserved Font Name — so this derivative retains the original copyright
-and license and reserves its own name.
-
-**"S Tricky"** is a Reserved Font Name: use, study, modify, and redistribute
-freely, but rename your fork — a modified version must not ship under the name
-"S Tricky" or anything confusingly similar.
+SIL Open Font License 1.1 — see [`OFL.txt`](./OFL.txt). "S Tricky" is a
+Reserved Font Name: if you modify and redistribute the font, ship it under a
+different name.
 
 ## Credits
 
