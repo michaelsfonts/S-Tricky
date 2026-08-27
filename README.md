@@ -35,25 +35,13 @@ Copyright (c) 2026, Michael Seh (https://michaelsfonts.com), with Reserved Font 
 Copyright (c) 2013, 2014, 2015 by (URW)++ Design & Development.
 ```
 
-### Deriving from URW Gothic Book
+URW Gothic Book is offered by URW++ under the OFL 1.1 (among other licenses),
+with no Reserved Font Name — so this derivative retains the original copyright
+and license and reserves its own name.
 
-URW Gothic Book is distributed by URW++ under a choice of three licenses:
-AGPLv3 (with a font-embedding exemption), LPPL 1.3c, **or** the SIL Open Font
-License 1.1. S Tricky takes it under **OFL 1.1**, which the OFL permits: a
-derivative may be made and redistributed under the OFL as long as the original
-copyright and license are retained (they are, above and in `OFL.txt`) and the
-work is not sold on its own.
-
-Importantly, URW++ released URW Gothic Book under the OFL **without a Reserved
-Font Name clause**. That is what makes this modification straightforward: there
-is no URW reserved name to avoid, and the derivative is free to reserve its own.
-
-### Reserved Font Name
-
-**"S Tricky"** is a Reserved Font Name under the OFL. Per the license, you may
-freely use, study, modify, and redistribute this font, but any *modified*
-version you distribute must **not** use the name "S Tricky" (or a confusingly
-similar name) in its font names. Rename your fork.
+**"S Tricky"** is a Reserved Font Name: use, study, modify, and redistribute
+freely, but rename your fork — a modified version must not ship under the name
+"S Tricky" or anything confusingly similar.
 
 ## Credits
 
