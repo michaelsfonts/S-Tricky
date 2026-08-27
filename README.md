@@ -50,4 +50,4 @@ freely, but rename your fork — a modified version must not ship under the name
 - Super S substitution and packaging: Michael Seh, https://michaelsfonts.com.
 - The Super S is a folk symbol with no known single author. Although it may
   well have been my friend Mattias, who first showed it to me and is, as far as
-  I'm concerned, the creator.
+  I'm concerned, the author.
