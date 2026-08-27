@@ -37,5 +37,5 @@ different name.
   [twardoch/urw-core35-fonts](https://github.com/twardoch/urw-core35-fonts).
 - Super S substitution and packaging: Michael Seh, https://michaelsfonts.com.
 - The Super S, a letter of sorts, has no known single author. Although it may
-  well have been my friend Mattias, who first showed it to me and is, as far as
-  I'm concerned, the author.
+  well have been my friend Mattias, who first showed it to me in elementary
+  school and is, as far as I'm concerned, the author.
