@@ -1,13 +1,17 @@
 # S Tricky
 
 **S Tricky** is a display typeface: [URW Gothic Book](https://github.com/twardoch/urw-core35-fonts)
-(URW++'s metric-compatible ITC Avant Garde Gothic) with one modification. The
+with one modification. The
 uppercase **S** (U+0053) and lowercase **s** (U+0073) are replaced by the
 Super S. You know the one. Every other glyph is passed through from URW Gothic
 Book unchanged.
 
 The Super S is the original Cool S, scaled uniformly to two sizes: the cap **S** at cap height (1513) and the lowercase
 **s** at x-height (1120), each on the baseline.
+
+![S Tricky](img/specimen-title.png)
+
+![Skip class, stay cool](img/specimen-phrase.png)
 
 ## Files
 
