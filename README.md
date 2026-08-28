@@ -19,7 +19,7 @@ The Super S is the original Cool S, scaled uniformly to two sizes: the cap **S**
 |---|---|
 | `STricky-Regular.ttf` | TrueType (desktop / general use) |
 | `STricky-Regular.woff` | Web font, WOFF 1.0 |
-| `STricky-Regular.woff2` | Web font, WOFF 2.0 (verified to round-trip back to the TTF) |
+| `STricky-Regular.woff2` | Web font, WOFF 2.0 |
 | `OFL.txt` | SIL Open Font License 1.1, full text |
 | `README.md` | This file |
 
