@@ -13,6 +13,10 @@ The Super S is the original Cool S, scaled uniformly to two sizes: the cap **S**
 
 ![Skip class, stay cool](img/specimen-phrase.png)
 
+## Download
+
+**[Download S Tricky 1.0.0](https://github.com/michaelsfonts/S-Tricky/releases/latest)** — TTF to install on your computer, WOFF and WOFF2 for the web, or the zip with everything.
+
 ## Files
 
 | File | Description |
