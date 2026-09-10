@@ -15,7 +15,7 @@ The Super S is the original Cool S, scaled uniformly to two sizes: the cap **S**
 
 ## Download
 
-**[Download S Tricky 1.0.0](https://github.com/michaelsfonts/S-Tricky/releases/latest)** — TTF to install on your computer, WOFF and WOFF2 for the web, or the zip with everything.
+**[Download S Tricky 1.0.0](https://github.com/michaelsfonts/S-Tricky/releases/latest)**: TTF to install on your computer, WOFF and WOFF2 for the web, or the zip with everything.
 
 ## Files
 
@@ -31,7 +31,7 @@ Family name **S Tricky**, style **Regular**.
 
 ## License
 
-SIL Open Font License 1.1 — see [`OFL.txt`](./OFL.txt). "S Tricky" is a
+SIL Open Font License 1.1, see [`OFL.txt`](./OFL.txt). "S Tricky" is a
 Reserved Font Name: if you modify and redistribute the font, ship it under a
 different name.
 
